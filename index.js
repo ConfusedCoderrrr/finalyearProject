@@ -94,4 +94,4 @@ app.post("/auth/login", async (req, res, next) => {
         next(error);
     }
 })
-app.listen(process.env.PORT);
+app.listen(process.env.PORT || 3007);
