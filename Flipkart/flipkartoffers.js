@@ -54,4 +54,4 @@ const scrapeData = async (parameter) => {
 }
 
 // Example usage
-scrapeData(["https://www.flipkart.com/apple-iphone-15-black-128-gb/p/itm6ac6485515ae4"]);
+// scrapeData(["https://www.flipkart.com/apple-iphone-15-black-128-gb/p/itm6ac6485515ae4"]);
