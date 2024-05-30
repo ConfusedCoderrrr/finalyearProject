@@ -25,5 +25,4 @@ const main = async (parameter) => {
     return productsData;
     // console.log(productsData);
 }
-main();
 module.exports = main;
